@@ -1461,14 +1461,6 @@ categories:
           [Chrome](https://chrome.google.com/webstore/detail/privacyspy/ppembnadnhiknioggbglgiciihgmkmnd) -
           [Firefox](https://addons.mozilla.org/en-US/firefox/addon/privacyspy/)
 
-      - name: HTTPZ
-        url: https://github.com/claustromaniac/httpz
-        github: claustromaniac/httpz
-        icon: https://addons.mozilla.org/user-media/addon_icons/1018/1018256-64.png?modified=9b273331
-        description: |
-          Simplified HTTPS upgrades for Firefox (lightweight alternative to HTTPS-Everywhere) **Download**:
-          [Firefox](https://addons.mozilla.org/en-US/firefox/addon/httpz/)
-
       - name: Skip Redirect
         url: https://github.com/sblask/webextension-skip-redirect
         github: sblask/webextension-skip-redirect
